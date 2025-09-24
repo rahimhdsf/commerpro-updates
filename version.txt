@@ -1,2 +1,2 @@
-1.0.6
-https://github.com/rahimhdsf/commerpro-updates/releases/download/v1.0.6/CommerPro-v1.0.6.exe
+1.1.5
+https://github.com/rahimhdsf/commerpro-updates/releases/download/v1.1.5/CommerPro-v1.1.5.exe
